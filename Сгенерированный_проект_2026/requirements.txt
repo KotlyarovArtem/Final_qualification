@@ -1,0 +1,12 @@
+numpy
+pandas
+openpyxl
+matplotlib
+seaborn
+scikit-learn
+tensorflow-cpu
+joblib
+ipywidgets
+jupyter-server
+ipykernel
+streamlit
